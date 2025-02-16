@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066543273913",
+    "project_id": "fir-v-m-chat",
+    "storage_bucket": "fir-v-m-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066543273913:android:7ad3b7244d3462f089c868",
+        "android_client_info": {
+          "package_name": "com.example.svmchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVf6v3a2mnlm4hV0ZQAprgbvJ0R-_1UM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

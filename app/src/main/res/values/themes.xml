@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SVMCHAT" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/darkTextColor</item>
+        <item name="colorPrimaryDark">@color/lightBackground</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/lightBackground</item>
+        <item name="android:textColor">@color/lightTextColor</item>
+    </style>
+
+    <style name="Theme.SVMCHAT" parent="Base.Theme.SVMCHAT" />
+    <style name="dialoge">
+        <item name="android:windowBackground">@drawable/empty_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowMinWidthMajor">80%</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>
